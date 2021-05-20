@@ -3,7 +3,7 @@
 host link:
 https://vijaywar.github.io/TravelDeals/
 
-For section wise code in different files and inclided using Jquery :<br>https://github.com/vijaywar/TravelDeals-Split
+For section wise code in different files and included using Jquery :<br>https://github.com/vijaywar/TravelDeals-Split
 
 I simple landing page that offers tour packages to Ladakh.
 <img src='./readmeImg/w1.jpg' alt='home'>
