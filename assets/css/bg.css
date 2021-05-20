@@ -17,10 +17,7 @@
     background-color: transparent;
     transition-duration: .5s;
 }
-.signin:hover{
-    text-decoration: none;
-    background-color: rgb(6, 21, 104)  ;
-}
+
 .logo img{
     width: 5vw;
     margin: 20px;
@@ -92,3 +89,10 @@ height: 50vh;
     background-color: rgb(240, 248, 255) !important;
     box-shadow: 5px 5px 10px black;
 }
+@media only screen and (max-width:600px) {
+    
+    .signin:hover{
+        text-decoration: none;
+        background-color: rgb(6, 21, 104)  ;
+    }
+    }
