@@ -96,3 +96,7 @@ height: 50vh;
         background-color: rgb(6, 21, 104)  ;
     }
     }
+
+.nav-link:hover{
+background-color: rgba(112, 116, 119, 0.445);
+}
