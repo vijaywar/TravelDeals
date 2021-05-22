@@ -29,3 +29,5 @@ I simple landing page that offers tour packages to Ladakh.
 <img width='350px' src='./assets/readmeImg/m6.jpeg' alt='Screen Shots of content'>
 
 <img width='350px' src='./assets/readmeImg/m7.jpeg' alt='Screen Shots of content'>
+
+<img width='350px' src='./assets/readmeImg/m8.jpeg' alt='Screen Shots of content'>
